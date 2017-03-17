@@ -1,0 +1,6 @@
+[package]
+name = "elmkelon_client"
+version = "0.1.0"
+authors = ["Mārtiņš Briedis <martins.briedis.88@gmail.com>"]
+
+[dependencies]
